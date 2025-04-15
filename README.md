@@ -1,6 +1,4 @@
-#🔐 Random Password Generator
-
-
+#Random Password Generator
 This Python script generates a 15-character secure password using special characters (string.punctuation) and hex characters (string.hexdigits).
 
 Features:
